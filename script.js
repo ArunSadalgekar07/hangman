@@ -29,13 +29,17 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         theme: "City",
         word: [
-          "Washington",
-          "Lisbon",
-          "Bangkok",
-          "Leipzig",
-          "Liverpool",
-          "Florence",
-        ],
+  "Mumbai",
+  "Delhi",
+  "Bengaluru",
+  "Hyderabad",
+  "Chennai",
+  "Kolkata",
+  "Jaipur",
+  "Ahmedabad",
+  "Pune",
+  "Lucknow",
+],
       },
       {
         theme: "Fruit",
@@ -48,15 +52,20 @@ document.addEventListener("DOMContentLoaded", () => {
         ],
       },
       {
-        theme: "French food",
+        theme: "Indian food",
         word: [
-          "Croissant",
-          "Fromage",
-          "Baguette",
-          "Pain au chocolat",
-          "Cassoulet",
+      "Samosa",
+      "Butter Chicken",
+      "Biryani",
+      "Masala Dosa",
+      "Paneer Tikka",
+      "Gulab Jamun",
+      "Rogan Josh",
+      "Aloo Paratha",
+      "Chole Bhature",
+      "Vada Pav",
         ],
-      },
+ },
     ];
   
     window.onload = function () {
